@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="FirstName">firstName</string>
+    <string name="LastName">lastName</string>
+    <string name="Button">button</string>
+    <string name="Welcome_To_The_App">Welcome to the App</string>
+    <string name="Please_Enter_Name">FirstName or LastName cannot be empty</string>
 </resources>
